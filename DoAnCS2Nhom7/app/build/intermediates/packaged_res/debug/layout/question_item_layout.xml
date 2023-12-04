@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_question"
+        android:layout_margin="8dp"
+        android:padding="8dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:text="Question No 1"
+        android:layout_weight="1"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:scrollbars="vertical"
+        android:background="@android:color/white"
+        android:inputType="textMultiLine"
+        android:elevation="5dp"
+        android:translationZ="3dp"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/optionA"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:text="potion A"
+        android:textSize="16sp"
+        android:background="@drawable/unselected_btn"
+        android:elevation="3dp"
+        android:translationZ="3dp"
+        android:stateListAnimator="@null"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/optionB"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:text="potion B"
+        android:textSize="16sp"
+        android:background="@drawable/unselected_btn"
+        android:elevation="3dp"
+        android:translationZ="3dp"
+        android:stateListAnimator="@null"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/optionC"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:text="potion C"
+        android:textSize="16sp"
+        android:background="@drawable/unselected_btn"
+        android:elevation="3dp"
+        android:translationZ="3dp"
+        android:stateListAnimator="@null"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/optionD"
+        android:layout_margin="8dp"
+        android:textColor="@color/black"
+        android:text="potion D"
+        android:textSize="16sp"
+        android:background="@drawable/unselected_btn"
+        android:elevation="3dp"
+        android:translationZ="3dp"
+        android:stateListAnimator="@null"
+        />
+
+</LinearLayout>

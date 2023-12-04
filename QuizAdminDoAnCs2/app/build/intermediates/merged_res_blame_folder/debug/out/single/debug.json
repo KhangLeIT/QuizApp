@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\layout_edit_test_dialog.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\layout\\edit_test_dialog.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_category.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\layout_question_item_layout.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\layout\\question_item_layout.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\layout_add_test_category.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\layout\\add_test_category.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\layout_add_category_dialog.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\layout\\add_category_dialog.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_gradient_begin.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\drawable\\bg_gradient_begin.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\layout_edit_category_dialog.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\layout\\edit_category_dialog.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\font_blacklist.ttf.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\font\\blacklist.ttf"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_question.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\layout\\activity_question.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_update_question.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\layout\\activity_update_question.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_password.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\drawable\\ic_password.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_corner_button.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\drawable\\round_corner_button.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_test.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_question.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\layout\\activity_add_question.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_begin.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\layout\\activity_begin.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_delete.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\layout_test_item_layout.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\layout\\test_item_layout.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_back.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\layout_cat_item_layout.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\layout\\cat_item_layout.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_account.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\drawable\\ic_account.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\layout_dailog_layout.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\layout\\dailog_layout.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\drawable_app_logo.png.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\anim_myanim.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\anim\\myanim.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_quiz.png.flat",
+        "source": "D:\\fileDoAn2\\QuizAdminDoAnCs2\\app\\src\\main\\res\\mipmap-xxxhdpi\\quiz.png"
+    }
+]

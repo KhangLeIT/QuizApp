@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorPrimary">#0040FF</color>
+    <color name="colorPrimaryDark">#10028F</color>
+    <color name="green">#2DF836</color>
+    <color name="grey">#A8A8A8</color>
+    <color name="main_background">#EDF3FC</color>
+    <color name="pink">#F704E1</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#ff0000</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_normal">#919191</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">QuizAdminDoAnCs2</string>
+    <string name="default_web_client_id" translatable="false">585293785321-j6o2r81oa6764jnbrnvh45jt024dcmbb.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://exampractice-b9cc4-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">585293785321</string>
+    <string name="google_api_key" translatable="false">AIzaSyAhHDx1TezThBE0aIl1eCbhzFCLjCiPxl8</string>
+    <string name="google_app_id" translatable="false">1:585293785321:android:833f67faf973c74ff86878</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAhHDx1TezThBE0aIl1eCbhzFCLjCiPxl8</string>
+    <string name="google_storage_bucket" translatable="false">exampractice-b9cc4.appspot.com</string>
+    <string name="project_id" translatable="false">exampractice-b9cc4</string>
+    <style name="Theme.QuizAdminDoAnCs2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
