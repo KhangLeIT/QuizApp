@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.doancs2nhom7">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/quiz"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/quiz"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DoAnCS2Nhom7">
+        <activity
+            android:name=".EmptyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BookmarksActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AnswersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MyProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ScoreActivity"
+            android:exported="false" />
+        <activity
+            android:name=".StarTestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".QuestionsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:label="@string/exam_practice"
+            android:theme="@style/Theme.DoAnCS2Nhom7.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

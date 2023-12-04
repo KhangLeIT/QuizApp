@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_background"
+    tools:context=".QuestionsActivity">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/top_bar"
+        android:background="@color/colorPrimary"
+        android:elevation="5dp"
+        android:padding="16dp"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_quesID"
+            android:text="1/25"
+            android:layout_weight="1"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_timer"
+            android:text="20 : 15 min"
+            android:layout_weight="1"
+            android:textColor="@color/green"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            />
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/submitB"
+            android:text="Submit"
+            android:layout_weight="1"
+            android:background="@drawable/button_broder"
+            android:backgroundTint="@android:color/holo_orange_light"
+            android:textColor="@color/white"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/ll4"
+        android:background="@color/colorPrimaryDark"
+        android:elevation="5dp"
+        android:padding="16dp"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/top_bar"
+        app:layout_constraintEnd_toEndOf="parent"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GK"
+            android:id="@+id/qa_catName"
+            android:layout_weight="1"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            />
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:id="@+id/qa_bookmarkB"
+            android:layout_weight="1"
+            android:src="@drawable/ic_bookmark"
+            />
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:id="@+id/ques_list_gridB"
+            android:layout_weight="1"
+            android:src="@drawable/ic_right_menu"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/ll3"
+        android:background="@color/colorPrimaryDark"
+        android:orientation="horizontal"
+        android:padding="12dp"
+        android:gravity="center"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        >
+        <ImageButton
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/prev_quesB"
+            app:srcCompat="@drawable/ic_lleft"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="24dp"
+            android:background="@color/colorPrimaryDark"
+            />
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:id="@+id/clear_selB"
+            android:background="@drawable/button_broder"
+            android:text="Clear Selection"
+            android:textColor="@color/white"
+            />
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:id="@+id/markB"
+            android:layout_marginLeft="8dp"
+            android:background="@drawable/button_broder"
+            android:text="Mark for Review"
+            android:textColor="@color/white"
+            />
+        <ImageButton
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/next_quesB"
+            app:srcCompat="@drawable/ic_right"
+            android:layout_marginLeft="24dp"
+            android:layout_marginRight="8dp"
+            android:background="@color/colorPrimaryDark"
+            />
+
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:id="@+id/questions_view"
+        android:layout_margin="16dp"
+        app:layout_constraintBottom_toTopOf="@+id/ll3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ll4"
+        >
+
+
+    </androidx.recyclerview.widget.RecyclerView>
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:elevation="5dp"
+        android:id="@+id/mark_image"
+        android:src="@drawable/marked"
+        android:layout_marginEnd="16dp"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ll4"
+
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
