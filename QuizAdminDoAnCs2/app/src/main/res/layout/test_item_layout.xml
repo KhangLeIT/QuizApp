@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_marginTop="14dp"
+    android:layout_height="wrap_content"
+
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:orientation="vertical"
+        android:layout_margin="8dp"
+        android:elevation="5dp"
+        android:gravity="center"
+        android:padding="16dp"
+        android:background="@color/white"
+        >
+
+        <TextView
+            android:id="@+id/textNo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="16dp"
+            android:textAlignment="center"
+            android:textSize="25sp"
+            />
+
+
+        <TextView
+            android:id="@+id/timeTest"
+            android:textStyle="bold"
+            android:textSize="17dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorPrimary"
+            android:textAlignment="center"
+            android:text=" 15 min" />
+
+        <ImageView
+            android:id="@+id/testDeleteB"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/ic_delete" />
+
+    </LinearLayout>
+
+</LinearLayout>

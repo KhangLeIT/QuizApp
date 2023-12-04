@@ -110,7 +110,6 @@ layout question_item_layout
 layout test_item_layout
 mipmap ic_launcher
 mipmap ic_launcher_round
-mipmap quiz
 string app_name
 string default_web_client_id
 string firebase_database_url

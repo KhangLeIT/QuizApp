@@ -4488,7 +4488,6 @@ com.example.quizadmindoancs2:style/ThemeOverlay.AppCompat.ActionBar = 0x7f120264
 com.example.quizadmindoancs2:attr/expandedTitleTextAppearance = 0x7f030195
 com.example.quizadmindoancs2:attr/navigationIcon = 0x7f0302fc
 com.example.quizadmindoancs2:attr/circularflow_radiusInDP = 0x7f0300c5
-com.example.quizadmindoancs2:mipmap/quiz = 0x7f0e0002
 com.example.quizadmindoancs2:drawable/design_password_eye = 0x7f070078
 com.example.quizadmindoancs2:attr/listPopupWindowStyle = 0x7f03028e
 com.example.quizadmindoancs2:animator/mtrl_extended_fab_state_list_animator = 0x7f02001b

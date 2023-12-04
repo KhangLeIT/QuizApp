@@ -2588,7 +2588,6 @@ drawable ic_bookmark_selected
 drawable ic_clock_black_24dp
 drawable ic_close
 drawable ic_correct
-drawable ic_delete
 drawable ic_google_logo
 drawable ic_home
 drawable ic_keyboard_black_24dp
@@ -3255,10 +3254,6 @@ id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
 id time
-id tip_conPass
-id tip_email
-id tip_fullName
-id tip_pass
 id title
 id titleDividerNoCustom
 id title_template
@@ -3419,7 +3414,6 @@ layout activity_test
 layout alert_dailog_layout
 layout answers_item_layout
 layout app_bar_main
-layout bookmark_item_layout
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout cat_item_layout
@@ -3542,7 +3536,6 @@ menu example_menu
 menu example_menu2
 mipmap ic_launcher
 mipmap ic_launcher_round
-mipmap quiz
 navigation mobile_navigation
 plurals mtrl_badge_content_description
 raw firebase_common_keep

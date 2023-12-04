@@ -14,7 +14,6 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.doancs2nhom7.R;
-import com.google.android.material.textfield.TextInputLayout;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -45,25 +44,11 @@ public final class ActivitySignUpBinding implements ViewBinding {
   public final Button signupB;
 
   @NonNull
-  public final TextInputLayout tipConPass;
-
-  @NonNull
-  public final TextInputLayout tipEmail;
-
-  @NonNull
-  public final TextInputLayout tipFullName;
-
-  @NonNull
-  public final TextInputLayout tipPass;
-
-  @NonNull
   public final EditText username;
 
   private ActivitySignUpBinding(@NonNull ConstraintLayout rootView, @NonNull ImageView backB,
       @NonNull EditText confirmPass, @NonNull LinearLayout editLayout, @NonNull EditText emailID,
       @NonNull LinearLayout linearLayout, @NonNull EditText password, @NonNull Button signupB,
-      @NonNull TextInputLayout tipConPass, @NonNull TextInputLayout tipEmail,
-      @NonNull TextInputLayout tipFullName, @NonNull TextInputLayout tipPass,
       @NonNull EditText username) {
     this.rootView = rootView;
     this.backB = backB;
@@ -73,10 +58,6 @@ public final class ActivitySignUpBinding implements ViewBinding {
     this.linearLayout = linearLayout;
     this.password = password;
     this.signupB = signupB;
-    this.tipConPass = tipConPass;
-    this.tipEmail = tipEmail;
-    this.tipFullName = tipFullName;
-    this.tipPass = tipPass;
     this.username = username;
   }
 
@@ -149,30 +130,6 @@ public final class ActivitySignUpBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.tip_conPass;
-      TextInputLayout tipConPass = ViewBindings.findChildViewById(rootView, id);
-      if (tipConPass == null) {
-        break missingId;
-      }
-
-      id = R.id.tip_email;
-      TextInputLayout tipEmail = ViewBindings.findChildViewById(rootView, id);
-      if (tipEmail == null) {
-        break missingId;
-      }
-
-      id = R.id.tip_fullName;
-      TextInputLayout tipFullName = ViewBindings.findChildViewById(rootView, id);
-      if (tipFullName == null) {
-        break missingId;
-      }
-
-      id = R.id.tip_pass;
-      TextInputLayout tipPass = ViewBindings.findChildViewById(rootView, id);
-      if (tipPass == null) {
-        break missingId;
-      }
-
       id = R.id.username;
       EditText username = ViewBindings.findChildViewById(rootView, id);
       if (username == null) {
@@ -180,8 +137,7 @@ public final class ActivitySignUpBinding implements ViewBinding {
       }
 
       return new ActivitySignUpBinding((ConstraintLayout) rootView, backB, confirmPass, editLayout,
-          emailID, linearLayout, password, signupB, tipConPass, tipEmail, tipFullName, tipPass,
-          username);
+          emailID, linearLayout, password, signupB, username);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

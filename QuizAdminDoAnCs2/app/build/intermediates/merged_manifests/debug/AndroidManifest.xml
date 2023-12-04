@@ -19,9 +19,9 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:extractNativeLibs="false"
-        android:icon="@mipmap/quiz"
+        android:icon="@mipmap/ic_launcher"
         android:label="Admin Exam"
-        android:roundIcon="@mipmap/quiz"
+        android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.QuizAdminDoAnCs2" >

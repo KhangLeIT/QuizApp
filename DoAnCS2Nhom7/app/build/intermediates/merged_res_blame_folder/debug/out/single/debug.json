@@ -1,586 +1,574 @@
 [
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_ques_grid_item.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\ques_grid_item.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_logout.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_logout.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_leader_board.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_leader_board.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_alert_dailog_layout.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\alert_dailog_layout.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_award.jpg.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\award.jpg"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_account.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_account.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_correct.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_correct.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_password.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_password.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_test_item_layout.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\test_item_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_lleft.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_lleft.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_leaderboard.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_leaderboard.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_test.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_test.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bookmarks.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_bookmarks.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_lleft.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_lleft.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_corner_button.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\round_corner_button.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_google_logo.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_google_logo.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_right.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_right.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_alert_dailog_layout.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\alert_dailog_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_view.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\round_view.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_leaderboard.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_leaderboard.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_logout.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_logout.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_correct.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_correct.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_home.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_question_item_layout.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\question_item_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_star_test.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_star_test.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_content_main.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\content_main.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_banner.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\background_banner.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_right.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_right.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_category.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_category.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_leaderboard.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_leaderboard.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_bookmark.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_bookmark.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_side_nav_bar.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_menu.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\menu\\bottom_menu.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_right_menu.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_right_menu.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_gallery.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_empty.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_empty.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\font_blacklist.ttf.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\font\\blacklist.ttf"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_bookmark_selected.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_bookmark_selected.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_back.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_back.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_backgourd_cat_item.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\backgourd_cat_item.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_password.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_password.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_bookmark.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_bookmark.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_right.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_right.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_close.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_close.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_lleft.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_lleft.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_right.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_right.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_correct.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_correct.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_gradient_background.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\gradient_background.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_lleft.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_lleft.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_account.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_account.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_bg_sach_item.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_bg_sach_item.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_back.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_back.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_answers_item_layout.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\answers_item_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_gallery.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_lleft.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_lleft.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_right_menu.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_right_menu.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_password.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_password.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_slideshow.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_slideshow.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_unselected_btn.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\unselected_btn.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_account.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_account.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_app_logo.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\app_logo.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_close.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_close.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_correct.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_correct.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header_main.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\nav_header_main.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_rank_2.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\background_rank_2.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_question_list_layout.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\question_list_layout.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_background.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\main_background.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_password.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_password.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_answers.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_answers.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_bookmark_selected.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_bookmark_selected.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_right.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_right.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_rank_3.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\background_rank_3.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_account.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_account.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_home.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_home.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_close.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_close.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_google_logo.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_google_logo.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_leaderboard.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_leaderboard.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_home.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_password.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_password.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_back.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_back.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_right_menu.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_right_menu.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_account.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_account.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_bookmark_selected.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_bookmark_selected.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_back.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_bookmark.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_bookmark.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_account.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_account.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_bookmark.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_bookmark.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_score.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_score.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_bookmark_selected.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_bookmark_selected.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_gradient_background.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\gradient_background.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_logout.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_logout.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_bookmark.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_bookmark.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_rank_item_layout.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\rank_item_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\circle.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_bg_item.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_bg_item.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_correct.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_correct.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_lleft.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_lleft.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header_main.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_bookmark_selected.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_bookmark_selected.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_right_menu.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_right_menu.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_leaderboard.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_leaderboard.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_home.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_home.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_back.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_back.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_home.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\font_blacklist.ttf.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\font\\blacklist.ttf"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_dailog_layout.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\dailog_layout.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_correct.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_correct.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_password.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_password.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_right.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_right.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_question_item_layout.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\question_item_layout.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_category.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_category.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_leaderboard.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_leaderboard.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_title_drawer.jpg.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\bg_title_drawer.jpg"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_back.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_back.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_close.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_close.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_camera.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_close.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_close.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_logout.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_logout.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_lleft.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_lleft.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_close.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_close.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_lleft.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_lleft.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_app_bar_main.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_my_profile.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_my_profile.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\navigation_mobile_navigation.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_lleft.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_lleft.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_right_menu.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_right_menu.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_corner_button.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\round_corner_button.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_account.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_account.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_bookmark.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_bookmark.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_qs.jpg.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\qs.jpg"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_test.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_test.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\menu_activity_main_drawer.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_password.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_password.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_right.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_right.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_qs.jpg.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\qs.jpg"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_up.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_right.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_right.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_quiz.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-xxxhdpi\\quiz.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_right.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_right.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_rank_1.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\background_rank_1.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_view.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\round_view.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_img_sach.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\rounded_img_sach.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_account.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_account.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_test_2.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_test_2.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\anim_myanim.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\anim\\myanim.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_correct.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_correct.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\circle.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_rank_1.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\background_rank_1.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_clock.jpg.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\clock.jpg"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_score.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_score.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_account.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_account.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_ques_grid_item.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\ques_grid_item.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_unselected_btn.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\unselected_btn.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_cat_item_layout.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\cat_item_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_award.jpg.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\award.jpg"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_marked.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\marked.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_right.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_right.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_question_list_layout.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\question_list_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_background.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\main_background.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_account.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_account.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_right_menu.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_right_menu.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_home.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_password.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_password.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_bookmark_selected.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_bookmark_selected.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_lleft.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_lleft.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_img_sach.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\rounded_img_sach.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_right_menu.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_right_menu.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_menu.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\menu\\bottom_menu.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_bg_sach_item.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_bg_sach_item.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_app_bar_main.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_right_menu.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_right_menu.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_rank_2.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\background_rank_2.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_test_2.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_test_2.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_selected_btn.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\selected_btn.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_bookmark_item_layout.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\bookmark_item_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_bookmark.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_bookmark.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_bookmark_selected.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_bookmark_selected.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_star_test.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_star_test.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_bookmark.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_bookmark.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_home.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_home.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_bookmark.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_bookmark.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_dailog_layout.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\dailog_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_close.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_close.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_home.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_home.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_correct.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_correct.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_bookmark_selected.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_bookmark_selected.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_bookmark_selected.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_bookmark_selected.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_marked.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\marked.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_account.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_account.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_bookmark.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_bookmark.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_bg_item.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_bg_item.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_broder.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\button_broder.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\anim_myanim.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\anim\\myanim.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_close.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_close.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_correct.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_correct.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_logout.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_logout.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_bookmark_selected.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_bookmark_selected.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bookmarks.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_bookmarks.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_test.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_test.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_logout.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_logout.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_password.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_password.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_rank_item_layout.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\rank_item_layout.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_empty.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_empty.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_account.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_account.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_my_profile.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_my_profile.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_test.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_test.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_leaderboard.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_leaderboard.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_right_menu.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_right_menu.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_correct.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_correct.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_leaderboard.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_leaderboard.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_logout.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_logout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_cat_item_layout.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\cat_item_layout.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_password.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_password.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_leader_board.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_leader_board.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_logout.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_logout.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_clock.jpg.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\clock.jpg"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_back.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_back.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_questions.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_questions.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_close.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_close.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_title_drawer.jpg.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\bg_title_drawer.jpg"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_logout.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-anydpi\\ic_logout.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_close.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_close.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_leaderboard.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_leaderboard.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_answers_item_layout.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\answers_item_layout.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_backgourd_cat_item.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\backgourd_cat_item.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_test_item_layout.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\test_item_layout.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_logout.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_logout.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_back.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_back.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_rank_3.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\background_rank_3.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_broder.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\button_broder.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_delete.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_banner.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\background_banner.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_selected_btn.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\selected_btn.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_right_menu.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xhdpi\\ic_right_menu.png"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_questions.xml.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_questions.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_answers.xml.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_answers.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable_app_logo.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable\\app_logo.png"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_back.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-xxhdpi\\ic_back.png"
-    },
-    {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_back.png.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-mdpi\\ic_back.png"
-    },
-    {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_leaderboard.png.flat",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\drawable-hdpi\\ic_leaderboard.png"
     }
 ]

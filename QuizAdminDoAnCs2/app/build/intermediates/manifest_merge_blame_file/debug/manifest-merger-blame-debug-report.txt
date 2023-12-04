@@ -6,9 +6,9 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+8-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+9-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
 11-->[com.google.firebase:firebase-auth:21.1.0] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\8f62945dd2d5463dc93984325b070bf7\transformed\firebase-auth-21.1.0\AndroidManifest.xml:23:5-67
@@ -27,75 +27,75 @@
 15-->[com.google.android.gms:play-services-measurement:21.2.0] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\3eaff57d17df672ed67f824acf92e55f\transformed\play-services-measurement-21.2.0\AndroidManifest.xml:26:22-107
 16
 17    <application
-17-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:5:5-39:19
+17-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:5:5-39:19
 18        android:allowBackup="true"
-18-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:6:9-35
+18-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.7.0] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\390de601e85ef6d40038e6a5ebd9868c\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 20        android:debuggable="true"
 21        android:extractNativeLibs="false"
-22        android:icon="@mipmap/quiz"
-22-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:7:9-36
+22        android:icon="@mipmap/ic_launcher"
+22-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:7:9-43
 23        android:label="Admin Exam"
-23-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:8:9-35
-24        android:roundIcon="@mipmap/quiz"
-24-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:9:9-41
+23-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:8:9-35
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:9:9-54
 25        android:supportsRtl="true"
-25-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:10:9-35
+25-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:10:9-35
 26        android:testOnly="true"
 27        android:theme="@style/Theme.QuizAdminDoAnCs2" >
-27-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:11:9-54
+27-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:11:9-54
 28        <activity
-28-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:12:9-14:40
+28-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:12:9-14:40
 29            android:name="com.example.quizadmindoancs2.UpdateQuestionActivity"
-29-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:13:13-51
+29-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:13:13-51
 30            android:exported="false" />
-30-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:14:13-37
+30-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:14:13-37
 31        <activity
-31-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:15:9-17:40
+31-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:15:9-17:40
 32            android:name="com.example.quizadmindoancs2.AddQuestionActivity"
-32-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:16:13-48
+32-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:16:13-48
 33            android:exported="false" />
-33-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:17:13-37
+33-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:17:13-37
 34        <activity
-34-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:18:9-20:40
+34-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:18:9-20:40
 35            android:name="com.example.quizadmindoancs2.QuestionActivity"
-35-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:19:13-45
+35-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:19:13-45
 36            android:exported="false" />
-36-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:20:13-37
+36-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:20:13-37
 37        <activity
-37-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:21:9-23:40
+37-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:21:9-23:40
 38            android:name="com.example.quizadmindoancs2.MainActivity"
-38-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:22:13-41
+38-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:22:13-41
 39            android:exported="false" />
-39-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:23:13-37
+39-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:23:13-37
 40        <activity
-40-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:24:9-26:40
+40-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:24:9-26:40
 41            android:name="com.example.quizadmindoancs2.TestActivity"
-41-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:25:13-41
+41-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:25:13-41
 42            android:exported="false" />
-42-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:26:13-37
+42-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:26:13-37
 43        <activity
-43-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:27:9-29:40
+43-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:27:9-29:40
 44            android:name="com.example.quizadmindoancs2.CategoryActivity"
-44-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:28:13-45
+44-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:28:13-45
 45            android:exported="false" />
-45-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:29:13-37
+45-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:29:13-37
 46        <activity
-46-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:30:9-38:20
+46-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:30:9-38:20
 47            android:name="com.example.quizadmindoancs2.BeginActivity"
-47-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:31:13-42
+47-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:31:13-42
 48            android:exported="true" >
-48-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:32:13-36
+48-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:32:13-36
 49            <intent-filter>
-49-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:33:13-37:29
+49-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:33:13-37:29
 50                <action android:name="android.intent.action.MAIN" />
-50-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:34:17-69
-50-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:34:25-66
+50-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:34:17-69
+50-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:34:25-66
 51
 52                <category android:name="android.intent.category.LAUNCHER" />
-52-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:36:17-77
-52-->D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:36:27-74
+52-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:36:17-77
+52-->D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:36:27-74
 53            </intent-filter>
 54        </activity>
 55        <activity

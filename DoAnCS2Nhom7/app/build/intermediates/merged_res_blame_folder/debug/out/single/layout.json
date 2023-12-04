@@ -1,126 +1,122 @@
 [
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_leader_board.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_leader_board.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_empty.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_empty.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\question_list_layout.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\question_list_layout.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\answers_item_layout.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\answers_item_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_leader_board.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_leader_board.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\cat_item_layout.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\cat_item_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bookmark_item_layout.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\bookmark_item_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_answers.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_answers.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_my_profile.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_my_profile.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_answers.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_answers.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\cat_item_layout.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\cat_item_layout.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\question_item_layout.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\question_item_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dailog_layout.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\dailog_layout.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\rank_item_layout.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\rank_item_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\rank_item_layout.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\rank_item_layout.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\ques_grid_item.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\ques_grid_item.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\question_list_layout.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\question_list_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_up.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_my_profile.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_my_profile.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\alert_dailog_layout.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\alert_dailog_layout.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\test_item_layout.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\test_item_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\question_item_layout.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\question_item_layout.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dailog_layout.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\dailog_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_test.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_test.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_score.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_score.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\content_main.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_empty.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_empty.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_category.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_category.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\test_item_layout.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\test_item_layout.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_test.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_test.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_up.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_questions.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_questions.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_questions.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_questions.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\answers_item_layout.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\answers_item_layout.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\nav_header_main.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_score.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_score.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\ques_grid_item.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\ques_grid_item.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_account.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_account.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\alert_dailog_layout.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\alert_dailog_layout.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_category.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_category.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_bookmarks.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_bookmarks.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_star_test.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_star_test.xml"
     },
     {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_star_test.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_star_test.xml"
-    },
-    {
-        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_account.xml",
-        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\fragment_account.xml"
+        "merged": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_bookmarks.xml",
+        "source": "D:\\A_DoAn2\\FileDoAn\\DoAnCS2Nhom7\\app\\src\\main\\res\\layout\\activity_bookmarks.xml"
     }
 ]

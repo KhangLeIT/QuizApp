@@ -16,7 +16,6 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.doancs2nhom7.R;
-import com.google.android.material.textfield.TextInputLayout;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -52,17 +51,10 @@ public final class ActivityLoginBinding implements ViewBinding {
   @NonNull
   public final TextView textView3;
 
-  @NonNull
-  public final TextInputLayout tipEmail;
-
-  @NonNull
-  public final TextInputLayout tipPass;
-
   private ActivityLoginBinding(@NonNull ConstraintLayout rootView, @NonNull EditText email,
       @NonNull TextView forgotPass, @NonNull ImageView gImg, @NonNull RelativeLayout gSignB,
       @NonNull LinearLayout linearLayout, @NonNull Button loginB, @NonNull EditText password,
-      @NonNull TextView signupB, @NonNull TextView textView3, @NonNull TextInputLayout tipEmail,
-      @NonNull TextInputLayout tipPass) {
+      @NonNull TextView signupB, @NonNull TextView textView3) {
     this.rootView = rootView;
     this.email = email;
     this.forgotPass = forgotPass;
@@ -73,8 +65,6 @@ public final class ActivityLoginBinding implements ViewBinding {
     this.password = password;
     this.signupB = signupB;
     this.textView3 = textView3;
-    this.tipEmail = tipEmail;
-    this.tipPass = tipPass;
   }
 
   @Override
@@ -158,20 +148,8 @@ public final class ActivityLoginBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.tip_email;
-      TextInputLayout tipEmail = ViewBindings.findChildViewById(rootView, id);
-      if (tipEmail == null) {
-        break missingId;
-      }
-
-      id = R.id.tip_pass;
-      TextInputLayout tipPass = ViewBindings.findChildViewById(rootView, id);
-      if (tipPass == null) {
-        break missingId;
-      }
-
       return new ActivityLoginBinding((ConstraintLayout) rootView, email, forgotPass, gImg, gSignB,
-          linearLayout, loginB, password, signupB, textView3, tipEmail, tipPass);
+          linearLayout, loginB, password, signupB, textView3);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

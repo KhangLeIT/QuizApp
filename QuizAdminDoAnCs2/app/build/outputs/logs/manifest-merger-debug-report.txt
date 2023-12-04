@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
+ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
 MERGED from [androidx.navigation:navigation-ui:2.4.2] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\5ad8921ebe3a7a2d33cab9a95fc3ab0d\transformed\navigation-ui-2.4.2\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.6.0] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\2c95e44c264fb235246fc5dda203c1be\transformed\material-1.6.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\fa98f261cfb778cf5fe221e437e7f787\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -91,25 +91,25 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] E:\TaiLieuAPK\2\BestFood\
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\c88a608709f60a53d44f8fcab7d43445\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\0a36c5e9d603adc27c3673644302741d\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.48.1] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\31e66054eb43fb4c86944344c46f95a1\transformed\grpc-android-1.48.1\AndroidManifest.xml:2:1-11:12
-INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
 	package
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:3:5-43
-		INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
-		INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
-		INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
-		INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:5:5-39:19
+ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:5:5-39:19
 MERGED from [com.google.android.material:material:1.6.0] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\2c95e44c264fb235246fc5dda203c1be\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.0] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\2c95e44c264fb235246fc5dda203c1be\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\fa98f261cfb778cf5fe221e437e7f787\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -169,73 +169,73 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] E:\TaiLieuAPK\2\BestFood\ca
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\390de601e85ef6d40038e6a5ebd9868c\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:8:9-35
 	android:roundIcon
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:7:9-36
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:11:9-54
 activity#com.example.quizadmindoancs2.UpdateQuestionActivity
-ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:12:9-14:40
+ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:12:9-14:40
 	android:exported
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:14:13-37
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:13:13-51
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:13:13-51
 activity#com.example.quizadmindoancs2.AddQuestionActivity
-ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:15:9-17:40
+ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:17:13-37
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:16:13-48
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:16:13-48
 activity#com.example.quizadmindoancs2.QuestionActivity
-ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:18:9-20:40
+ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:18:9-20:40
 	android:exported
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:20:13-37
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:19:13-45
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:19:13-45
 activity#com.example.quizadmindoancs2.MainActivity
-ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:21:9-23:40
+ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:21:9-23:40
 	android:exported
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:23:13-37
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:22:13-41
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:22:13-41
 activity#com.example.quizadmindoancs2.TestActivity
-ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:24:9-26:40
+ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:24:9-26:40
 	android:exported
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:26:13-37
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:25:13-41
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:25:13-41
 activity#com.example.quizadmindoancs2.CategoryActivity
-ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:27:9-29:40
+ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:27:9-29:40
 	android:exported
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:29:13-37
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:28:13-45
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:28:13-45
 activity#com.example.quizadmindoancs2.BeginActivity
-ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:30:9-38:20
+ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:30:9-38:20
 	android:exported
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:32:13-36
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:32:13-36
 	android:name
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:31:13-42
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:31:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:33:13-37:29
+ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:33:13-37:29
 action#android.intent.action.MAIN
-ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:34:17-69
+ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:34:17-69
 	android:name
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:34:25-66
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:36:17-77
+ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:36:17-77
 	android:name
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:36:27-74
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml:36:27-74
 uses-sdk
-INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
-INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
 MERGED from [androidx.navigation:navigation-ui:2.4.2] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\5ad8921ebe3a7a2d33cab9a95fc3ab0d\transformed\navigation-ui-2.4.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.4.2] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\5ad8921ebe3a7a2d33cab9a95fc3ab0d\transformed\navigation-ui-2.4.2\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.6.0] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\2c95e44c264fb235246fc5dda203c1be\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
@@ -410,16 +410,16 @@ MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] E:\TaiLieuAP
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\0a36c5e9d603adc27c3673644302741d\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [io.grpc:grpc-android:1.48.1] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\31e66054eb43fb4c86944344c46f95a1\transformed\grpc-android-1.48.1\AndroidManifest.xml:5:5-7:41
 MERGED from [io.grpc:grpc-android:1.48.1] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\31e66054eb43fb4c86944344c46f95a1\transformed\grpc-android-1.48.1\AndroidManifest.xml:5:5-7:41
-INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
-INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
-		INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
-		ADDED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
-		INJECTED from D:\fileDoAn2\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+		ADDED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\A_DoAn2\FileDoAn\QuizAdminDoAnCs2\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from [com.google.firebase:firebase-auth:21.1.0] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\8f62945dd2d5463dc93984325b070bf7\transformed\firebase-auth-21.1.0\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-firestore:24.4.0] E:\TaiLieuAPK\2\BestFood\caches\transforms-3\0d188873dab3eefee22d6a6c5d731070\transformed\firebase-firestore-24.4.0\AndroidManifest.xml:13:5-67

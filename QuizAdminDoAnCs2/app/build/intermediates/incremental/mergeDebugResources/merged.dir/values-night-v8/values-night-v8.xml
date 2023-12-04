@@ -32,8 +32,6 @@
     <style name="Theme.MaterialComponents.DayNight.NoActionBar" parent="Theme.MaterialComponents.NoActionBar"/>
     <style name="Theme.MaterialComponents.DayNight.NoActionBar.Bridge" parent="Theme.MaterialComponents.NoActionBar.Bridge"/>
     <style name="Theme.QuizAdminDoAnCs2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-        <item name="android:windowActionBar">false</item>
-        <item name="windowNoTitle">true</item>
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_200</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
